@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**satootsukaworks/satootsukaworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 自己PR・キャリアビジョン
 
-Here are some ideas to get you started:
+現在は未経験からSEとして就業し、社内システム開発やWebサイト制作、実務でのGit運用を経験しています。また、並行して「TUMO Gunma」のラーニングコーチとして、受講生への技術指導（Blender等）やモチベーション管理を担当しており、技術を言語化して他者に伝えるコミュニケーション能力を培ってきました。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+今後は、市場需要の高い「Javaによる堅牢なバックエンド開発」と「iOSネイティブアプリ開発」のスキルを掛け合わせ、インフラ（AWS）やセキュリティまで一気通貫で担当できるフルスタックなフリーランスエンジニアを目指しています。現在はその一歩として、基本情報技術者試験の学習を進めつつ、以下の個人開発プロジェクトに注力しています。
+
+## 🛠 スキルセット (Skills)
+
+### 【バックエンド / 業務効率化】
+- **Java (Spring Boot) / PHP / WordPress / VBA**
+  - 社内システムの構築経験、Spring Boot / Thymeleafを用いたWebアプリ開発経験あり。VBAを用いた実務の自動化・効率化提案が可能です。
+
+### 【フロントエンド / クリエイティブ】
+- **HTML5 / CSS3 / JavaScript / Blender**
+  - イベント用Webサイトの制作経験に加え、3Dモデリングツール「Blender」の操作・指導経験があります。将来的なWeb×3D表現への応用も視野に入れています。
+
+### 【開発ツール / 学習中技術】
+- **Git (GitHub) / AWS / セキュリティ / Swift (iOS)**
+  - 実務でのGitによるバージョン管理、AWS（EC2/S3等）を用いたインフラ構築、およびiOSアプリ開発を現在深く学習中です。
+
+## 🚀 現在進行中の個人開発プロジェクト (Current Project)
+
+Javaをバックエンドにした**「iOSネイティブアプリケーション」**を開発中（2026年内公開予定）です。自己学習等でキャッチアップしたAWSの基礎知識を活かし、インフラ構築からセキュリティ対策まで個人で完結させることを目標としています。
+
+### 📋 システム構成・開発ロードマップ
+
+1. **バックエンド開発 (Java / Spring Boot)**
+   - クライアント（iOSアプリ）と通信するための、堅牢なREST APIサーバーをJavaで構築。
+   - Spring Securityを用いた強固な認証機能、バリデーション（XSS・SQLインジェクション対策）の実装。
+
+2. **フロントエンド開発 (iOS / Swift)**
+   - Apple標準のSwiftUIを用いた、操作性に優れたネイティブアプリのUI/UX実装。
+   - API通信による非同期データ処理の実装。
+
+3. **インフラ構築 & デプロイ (AWS)**
+   - AWS（EC2, RDS, S3等）を用いた、本番環境の構築。
+   - 安全な通信（HTTPS化）や環境構築の自動化。
+
+※本プロジェクトの開発プロセスや、基本情報技術者試験で得た「セキュリティ・ネットワーク」の知見は、Qiita/個人ブログにて順次アウトプットとして記事化していこうと考えています。
+
