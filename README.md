@@ -2,41 +2,40 @@
 
 ## 👤 ABOUT ME
 
-現在は未経験からSEとして就業し、社内システム開発やWebサイト制作、実務でのGit運用を経験しています。また、並行して「TUMO Gunma」のラーニングコーチとして、受講生への技術指導（Blender等）やモチベーション管理を担当しており、技術を言語化して他者に伝えるコミュニケーション能力を培ってきました。
+I started my career as a Systems Engineer without prior experience and have gained hands-on experience in internal system development, website creation, and Git operations in a professional setting. At the same time, I work as a Learning Coach at "TUMO Gunma," where I provide technical guidance to students　and manage their motivation. Through this, I have cultivated strong communication skills in verbalizing and conveying technical concepts to others.
 
-今後は、市場需要の高い「Javaによる堅牢なバックエンド開発」と「iOSネイティブアプリ開発」のスキルを掛け合わせ、インフラ（AWS）やセキュリティまで一気通貫で担当できるフルスタックなフリーランスエンジニアを目指しています。現在はその一歩として、基本情報技術者試験の学習を進めつつ、以下の個人開発プロジェクトに注力しています。
+Moving forward, I aim to become a full-stack freelance engineer capable of handling everything from infrastructure (AWS) to security, combining high-demand skills in "robust backend development with Java" and "iOS native app development." As a step toward this goal, I am currently studying for the Fundamental Information Technology Engineer Examination while focusing on the personal development project detailed below.
 
 ## 🛠 SKILLS
 
-### 【バックエンド / 業務効率化】
+### [Backend / Business Efficiency]
 - **Java (Spring Boot) / PHP / WordPress / VBA**
-  - 社内システムの構築経験、Spring Boot / Thymeleafを用いたWebアプリ開発経験あり。VBAを用いた実務の自動化・効率化提案が可能です。
+  - Experience in building internal systems and developing web applications using Spring Boot / Thymeleaf. Capable of proposing automation and efficiency improvements for business operations using VBA.
 
-### 【フロントエンド / クリエイティブ】
+### [Frontend / Creative]
 - **HTML5 / CSS3 / JavaScript / Blender**
-  - イベント用Webサイトの制作経験に加え、3Dモデリングツール「Blender」の操作・指導経験があります。将来的なWeb×3D表現への応用も視野に入れています。
+  - Experienced in creating websites, operating Blender. I am also looking into applying these skills to future Web x 3D expressions.
 
-### 【開発ツール / 学習中技術】
-- **Git (GitHub) / AWS / セキュリティ / Swift (iOS)**
-  - 実務でのGitによるバージョン管理、AWS（EC2/S3等）を用いたインフラ構築、およびiOSアプリ開発を現在深く学習中です。
+### [Development Tools / Technologies Learning]
+- **Git (GitHub) / AWS / Security / Swift (iOS)**
+  - Currently deepening my studies in version control with Git in a professional environment, infrastructure construction using AWS (EC2, S3, etc.), and iOS app development.
 
 ## 🚀 CURRENT PROJECT
 
-Javaをバックエンドにした「iOSネイティブアプリケーション」を開発中（2026年内公開予定）です。自己学習等でキャッチアップしたAWSの基礎知識を活かし、インフラ構築からセキュリティ対策まで個人で完結させることを目標としています。
+I am currently developing an "iOS native application" with a Java backend (scheduled for release within coming 2027). Utilizing foundational AWS knowledge acquired through self-study, my goal is to independently handle everything from infrastructure setup to security measures.
 
-### 📋 システム構成・開発ロードマップ
+### 📋 System Architecture & Development Roadmap
 
-1. **バックエンド開発 (Java / Spring Boot)**
-   - クライアント（iOSアプリ）と通信するための、堅牢なREST APIサーバーをJavaで構築。
-   - Spring Securityを用いた強固な認証機能、バリデーション（XSS・SQLインジェクション対策）の実装。
+1. **Backend Development (Java / Spring Boot)**
+   - Building a robust REST API server in Java to communicate with the client (iOS app).
+   - Implementing strong authentication using Spring Security and validation (XSS and SQL injection countermeasures).
 
-2. **フロントエンド開発 (iOS / Swift)**
-   - Apple標準のSwiftUIを用いた、操作性に優れたネイティブアプリのUI/UX実装。
-   - API通信による非同期データ処理の実装。
+2. **Frontend Development (iOS / Swift)**
+   - Implementing UI/UX for a user-friendly native app using Apple's standard SwiftUI.
+   - Implementing asynchronous data processing via API communication.
 
-3. **インフラ構築 & デプロイ (AWS)**
-   - AWS（EC2, RDS, S3等）を用いた、本番環境の構築。
-   - 安全な通信（HTTPS化）や環境構築の自動化。
+3. **Infrastructure & Deployment (AWS)**
+   - Building a production environment using AWS (EC2, RDS, S3, etc.).
+   - Securing communications (HTTPS) and automating environment setup.
 
-※本プロジェクトの開発プロセスや、基本情報技術者試験で得た「セキュリティ・ネットワーク」の知見は、Qiita/個人ブログにて順次アウトプットとして記事化していこうと考えています。
-
+*PS: I plan to systematically publish articles about this development process and insights on "Security & Networks" gained while studying for the Fundamental Information Technology Engineer Examination on Qiita and my personal blog.*
